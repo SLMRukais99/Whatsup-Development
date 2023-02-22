@@ -66,7 +66,7 @@ $conn->close();
          <p>
          <label>Student Contact No : </label><input type="number" name = "contact"><br>
          </P>
-         
+         // I have added somme comments regaedin my program
          <p>
          <label>Student Hometown   : </label><input type="text" name = "htown"><br>
          </P>
