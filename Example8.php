@@ -1,7 +1,8 @@
 <?php
 //create connection
 $conn = new mysqli("localhost","root","","university");
-
+//adding the video call feature
+//adding the audio call feature
 
 //check connection
 if($conn->connect_error){
